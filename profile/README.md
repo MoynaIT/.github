@@ -2,7 +2,7 @@
 
 This is the Org for the C. J. Moyna and Son's family of companies.
 
-Our main website is [https://cjmoyna.com](cjmoyna.com)
+Our main website is [cjmoyna.com](https://cjmoyna.com)
 
 This org holds all code for:
 - C. J. Moyna and Son's
